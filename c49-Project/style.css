@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    background-color: crimson;
+}
+.origami{
+    background-color: greenyellow;
+    border-radius: 20px;
+    width: 300px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family:  sans-serif;
+}
+body{
+    background-color: lightgrey;
+}
